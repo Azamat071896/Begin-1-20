@@ -423,13 +423,3 @@
 // let y = (a1*c2-a2*c1)/d
 // console.log(`X равен:${x}, Y равен:${y}`);
 
-let a1=5;
-let a2=6;
-let b1=3;
-let b2=4;
-let c1=1;
-let c2=2;
-let d=a1*b2-a2*b1;
-let x=(c1*b2-c2*b1)/d;
-let y=(a1*c2-a2*c1)/d;
-document.write(`x=${x}  y=${y}`);
